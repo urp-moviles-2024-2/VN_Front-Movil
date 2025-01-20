@@ -1,9 +1,9 @@
 import { Platform } from 'react-native';
 
 export const baseUrl = Platform.select({
-  ios: 'https://vnback-production.up.railway.app',
-  android: 'https://github.com/urp-moviles-2024-2/vn_back',
-  web: 'https://vnback-production.up.railway.app'
+  ios: 'https://vn-back-prod.vercel.app',
+  android: 'https://vn-back-prod.vercel.app',
+  web: 'https://vn-back-prod.vercel.app'
 });
 
 // ios: 'http://localhost:3000',

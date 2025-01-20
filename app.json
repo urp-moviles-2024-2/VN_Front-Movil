@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "drawer",
-    "slug": "drawer",
+    "name": "virgen-natividad",
+    "slug": "virgen-natividad",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/images/icon.png",
@@ -19,15 +19,16 @@
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gabsss1.drawer"
+      "package": "com.gastonrodrig.drawer"
     },
     "web": {
       "favicon": "./src/assets/icons/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "0b97877e-ea85-4fa5-bafd-3a86dd615987"
+        "projectId": "1aca3803-682a-46ed-a5cd-7c88533bc8b2"
       }
-    }
+    },
+    "owner": "gastonrodrig04"
   }
 }

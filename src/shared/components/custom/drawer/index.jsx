@@ -35,7 +35,7 @@ const CustomDrawer = (props) => {
                 onValueChange={onToggleSwitch}
                 style={{
                   marginRight: Platform.OS === 'android' ? 45 : 0,
-                  marginTop: Platform.OS === 'android' ? -10 : 5,
+                  marginTop: Platform.OS === 'android' ? 0 : 5,
                 }}
               />
             </View>
